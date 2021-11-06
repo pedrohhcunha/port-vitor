@@ -45,7 +45,7 @@ export default function Home() {
       <section id="sobre" className={styles.sobreMim}>
         <h2>Sobre Mim</h2>
         <p>Sou Vitor Alexandre Campo Roman. Atualmente moro em Chapecó, SC. <br/>
-        Desde criança, sou apaixonado por tecnologias.  Era sempre chamado para programar  e "ajeitar" celulares e computadores da família.</p>
+        Desde criança, sou apaixonado por tecnologias.  Era sempre chamado para programar  e 'ajeitar' celulares e computadores da família.</p>
         <button>
             <a target="__blank" href="https://wa.me/554984115363">Comprar Agora</a>
         </button>
